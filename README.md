@@ -1,2 +1,2 @@
 # Turtle_Race
-A turtle race game. User selects turtle based on color. The winner color is print.
+A turtle race game. User selects the turtle based on color. The winner color is printed.
